@@ -26,3 +26,13 @@ descripciones.
 descripción paso a paso del proceso de creación.
 3. Utilizando una grabación de un archivo de audio, explica el procedimiento de incorporación y
 reproducción de audios desde una página web.
+ 
+ ## Semana 3 
+
+1. Incluye una capa Quiénes somos, que contemple la visualización del video de presentación del
+instituto.
+2. Implementa una galería con 3 imágenes png dentro de una segunda capa. Ubica libremente 3
+imágenes asociadas a la actividad comercial mencionada.
+3. Desarrolla un formulario que permita realizar una encuesta a los visitantes, que incluya: nombre
+completo, fecha de nacimiento, dirección, ciudad, teléfono, correo y su preferencia de horario:
+diurno o vespertino (ubíquelo en una tercera capa). 
