@@ -27,7 +27,7 @@ descripción paso a paso del proceso de creación.
 3. Utilizando una grabación de un archivo de audio, explica el procedimiento de incorporación y
 reproducción de audios desde una página web.
  
- ## Semana 3
+ ## Semana 3 
 
 1. Incluye una capa Quiénes somos, que contemple la visualización del video de presentación del
 instituto.
