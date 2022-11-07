@@ -1,12 +1,60 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Semana 3</title>
 </head>
+
 <body>
+    1. Incluye una capa Quiénes somos, que contemple la visualización del video de presentación del
+    instituto.
+    <div>
+        <iframe width="500" height="298" src="https://www.youtube.com/embed/_u0bH9joTfg"
+            title="¡IACC se está transformando para ustedes!" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+    </div>
+    2. Implementa una galería con 3 imágenes png dentro de una segunda capa. Ubica libremente 3
+    imágenes asociadas a la actividad comercial mencionada. <br>
     
+    <div>
+        <img width="400" height="298" src="https://www.iacc.cl/wp-content/uploads/2021/07/historia-iacc.jpg"
+            alt="1">
+        <img width="400" height="298" src="https://portaleduca.cl/wp-content/uploads/2019/12/iacc-educacion-online-696x476.jpg"
+            alt="2">
+        <img width="400" height="298" src="https://clubdebeneficiosamuch.cl/wp-content/uploads/2018/04/iacc.jpg"
+            alt="3">
+    </div>
+    <br>
+    3. Desarrolla un formulario que permita realizar una encuesta a los visitantes, que incluya: nombre
+    completo, fecha de nacimiento, dirección, ciudad, teléfono, correo y su preferencia de horario:
+    diurno o vespertino (ubíquelo en una tercera capa)
+    <div>
+        <br>
+        <form action="">
+            <label for="nombre">Nombre</label>
+            <input type="text" name="nombre" id="nombre"> <br>
+            <label for="fecha">Fecha de nacimiento</label><br>
+            <input type="date" name="fecha" id="fecha"> <br>
+            <label for="direccion">Dirección</label><br>
+            <input type="text" name="direccion" id="direccion"><br>
+            <label for="ciudad">Ciudad</label><br>
+            <input type="text" name="ciudad" id="ciudad"><br>
+            <label for="telefono">Teléfono</label><br>
+            <input type="text" name="telefono" id="telefono"><br>
+            <label for="correo">Correo</label><br>
+            <input type="email" name="correo" id="correo"><br>
+            <label for="horario">Horario</label>
+            <select name="horario" id="horario">
+                <option value="diurno">Diurno</option>
+                <option value="vespertino">Vespertino</option>
+            </select> <br>
+            <input type="submit" value="Enviar">
+        </form>
+    </div>
 </body>
+
 </html>
