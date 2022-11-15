@@ -36,3 +36,32 @@ imágenes asociadas a la actividad comercial mencionada.
 3. Desarrolla un formulario que permita realizar una encuesta a los visitantes, que incluya: nombre
 completo, fecha de nacimiento, dirección, ciudad, teléfono, correo y su preferencia de horario:
 diurno o vespertino (ubíquelo en una tercera capa). 
+
+## semana 4 
+
+El instituto profesional Estudia Aquí, se fundó en Santiago hace 10 años, con una oferta académica
+orientada al comercio exterior. Están considerando utilizar la web para aumentar su matrícula,
+expandiéndose a regiones.
+Para dar continuidad al proyecto, se te ha solicitado que modifiques la presentación visual de la página
+web, la que será posteriormente publicada en el servidor web que contratarán. Para ello, te han
+suministrado el archivo html con la información a mostrar (corresponde al archivo con el que vienen
+trabajando en la asignatura desde la semana anterior).
+ A continuación, basado en la solicitud, realiza las siguientes actividades y responde a las preguntas:
+ 
+1. Realiza una clasificación de los navegadores web y su compatibilidad con CSS y responde ¿Cuál
+es el navegador que, según tu criterio, presenta mayor compatibilidad con CSS 3? Argumenta
+tu respuesta.
+
+2. Dispones del archivo html de la semana anterior, incluye el código CSS en el mismo documento
+html y responde: ¿Cuál es el procedimiento que debes seguir para cambiar el estilo de
+presentación de la página web previamente diseñada? Proporciona un ejemplo en el que se
+aprecie el código y explica el funcionamiento básico de algún estilo que propongas para párrafos
+del sitio web.
+
+3. Finalmente, te solicitan incorporar estilo a la visualización de la página desde dispositivos
+móviles. Señala al menos dos diferencias entre el método definido con las reglas de tipo
+@import y el método definido con la etiqueta <link>.
+Deberás incorporar el código html y css en tus respuestas. Adicionalmente, deberás preparar la
+evidencia de su implementación, mediante capturas de pantalla con las visualizaciones en el navegador
+de todos los aspectos que lo requieran. Para ello, utilizarás la plantilla de la tarea para entregar la  la
+actividad.
