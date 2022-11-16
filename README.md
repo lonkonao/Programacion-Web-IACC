@@ -39,15 +39,6 @@ diurno o vespertino (ubíquelo en una tercera capa).
 
 ## semana 4 
 
-El instituto profesional Estudia Aquí, se fundó en Santiago hace 10 años, con una oferta académica
-orientada al comercio exterior. Están considerando utilizar la web para aumentar su matrícula,
-expandiéndose a regiones.
-Para dar continuidad al proyecto, se te ha solicitado que modifiques la presentación visual de la página
-web, la que será posteriormente publicada en el servidor web que contratarán. Para ello, te han
-suministrado el archivo html con la información a mostrar (corresponde al archivo con el que vienen
-trabajando en la asignatura desde la semana anterior).
- A continuación, basado en la solicitud, realiza las siguientes actividades y responde a las preguntas:
- 
 1. Realiza una clasificación de los navegadores web y su compatibilidad con CSS y responde ¿Cuál
 es el navegador que, según tu criterio, presenta mayor compatibilidad con CSS 3? Argumenta
 tu respuesta.
