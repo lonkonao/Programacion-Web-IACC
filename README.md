@@ -4,7 +4,7 @@
 
 En este repositorio se encuentran los ejercicios de la asignatura Programación Web I de la carrera de de informatica IACC
 
-## Semana 1
+## Semana 1 OK
 
 Actividades
 
@@ -17,7 +17,7 @@ sencilla? Describe cada uno de ellos.
 necesarias para crear una página web sencilla? Ilustra con un ejemplo (puedes utilizar la
 herramienta de edición recomendada).
 
-## Semana 2
+## Semana 2 OK
 
 1. Utilizando un documento HTML, identifica las etiquetas básicas utilizadas para la creación de
 hiperenlaces y listas. Especifica donde está presente cada una de ellas con sus respectivas
@@ -27,7 +27,7 @@ descripción paso a paso del proceso de creación.
 3. Utilizando una grabación de un archivo de audio, explica el procedimiento de incorporación y
 reproducción de audios desde una página web.
  
- ## Semana 3 
+ ## Semana 3 OK
 
 1. Incluye una capa Quiénes somos, que contemple la visualización del video de presentación del
 instituto.
@@ -37,7 +37,7 @@ imágenes asociadas a la actividad comercial mencionada.
 completo, fecha de nacimiento, dirección, ciudad, teléfono, correo y su preferencia de horario:
 diurno o vespertino (ubíquelo en una tercera capa). 
 
-## semana 4 
+## semana 4 OK
 
 1. Realiza una clasificación de los navegadores web y su compatibilidad con CSS y responde ¿Cuál
 es el navegador que, según tu criterio, presenta mayor compatibilidad con CSS 3? Argumenta
@@ -73,6 +73,7 @@ demostración de cómo se visualizará en los medios digitales. En este sentido,
 realizado por otra persona que comenzó con el trabajo y que por alguna razón no finalizó el prototipo.
 A partir del código HTML proporcionado que se presenta a continuación:
 
+```
 <html xmlns="http://www.w3.org/1999/xhtml ">
 <head>
  <meta http-equiv=” Content-Type” content=”text/html; charset=ISO-8859-1″ />
@@ -92,7 +93,7 @@ medios cuando se habla de Isabel Allende. Entre sus libros más destacados se en
 los espíritus; De amor y sombra; Paula. </p>
 </body>
 </html>
-
+```
 Utilizando el código proporcionado y para responder a los requerimientos, completa las actividades:
 
 1. Clasifica el conjunto de reglas CSS necesarias para que el resultado sea similar al mostrado en la
