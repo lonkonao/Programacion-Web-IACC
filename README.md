@@ -58,20 +58,8 @@ de todos los aspectos que lo requieran. Para ello, utilizarás la plantilla de l
 actividad.
 
 
-## semana 5
+## semana 5 OK
 
-DESARROLLO DE LA ACTIVIDAD
-
-Lee atentamente la información que se presenta. Analízala de acuerdo con los contenidos revisados en
-la semana y desarrolla la actividad evaluativa.
-Como parte de un proyecto personal, un compañero que trabaja en una biblioteca de una escuela tuvo
-la iniciativa de elaborar un catálogo de escritores famosos chilenos, con el propósito de dar a conocer
-parte de su vida y obra, para así despertar en los integrantes de la comunidad educativa el interés por
-la literatura chilena.
-Es por ello, que solicitan tu colaboración para la realización del diseño de su contenido y una pequeña
-demostración de cómo se visualizará en los medios digitales. En este sentido, te hacen entrega el código
-realizado por otra persona que comenzó con el trabajo y que por alguna razón no finalizó el prototipo.
-A partir del código HTML proporcionado que se presenta a continuación:
 
 ```
 <html xmlns="http://www.w3.org/1999/xhtml ">
@@ -110,7 +98,3 @@ página de los famosos exponentes de la literatura chilena? Argumenta tu respues
 el diseño HTML, durante la construcción de la página de los famosos exponentes de la literatura
 chilena? Argumenta tu respuesta.
 
-Deberás incorporar el código HTML y CSS correspondiente a la actividad 1, además deberás preparar la
-evidencia de su implementación, mediante capturas de pantalla con las visualizaciones en el navegador
-de todos los aspectos solicitados y su correspondiente explicación, junto con las respuestas
-argumentadas a las preguntas 2 y 3; para ello, utilizará la plantilla de la tarea suministrada.
