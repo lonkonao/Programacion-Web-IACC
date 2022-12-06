@@ -98,3 +98,62 @@ página de los famosos exponentes de la literatura chilena? Argumenta tu respues
 el diseño HTML, durante la construcción de la página de los famosos exponentes de la literatura
 chilena? Argumenta tu respuesta.
 
+
+## semana 6
+
+Has sido invitado a participar en el equipo de desarrollo de software de una empresa procesadora de
+productos lácteos. Recientemente, iniciaron la producción de tres nuevos productos: leche
+deslactosada, leche deshidratada sin grasa, y leche semidescremada.
+Tu jefe te ha solicitado la elaboración de un prototipo de página web que pueda ser visualizado desde
+los dispositivos móviles y/o computadoras personales de los clientes. Después de una reunión con los
+expertos de marketing, se decidió incluir la siguiente información de los productos:
+• ¿Qué es la leche deslactosada? ¿Cuáles son sus beneficios?
+• ¿Qué es la leche deshidratada sin grasa? ¿Cuáles son sus usos? ¿Cuál es su composición?
+• ¿Qué es la leche semidescremada? ¿En qué se diferencia de la leche entera?
+Para ello, deberás realizar los siguientes pasos:
+1. Descargar y descomprimir las librerías Bootstrap desde:
+https://getbootstrap.com/docs/4.4/getting-started/download/
+2. Crear un directorio para la página denominado Propuesta.
+3. Copiar el directorio CSS del archivo de Bootstrap descargado y descomprimido, en el directorio
+prototipo.
+4. Con el editor de texto de tu preferencia, crear el archivo index.html, usando la plantilla básica
+disponible en: https://getbootstrap.com/docs/4.4/getting-started/introduction/#starter-template
+5. Adaptar el enlace al archivo de Bootstrap de su directorio para CSS.
+6. Copiar la siguiente información de referencia en la sección body de tu página:
+Leche deslactosada
+La leche "sin lactosa" es una leche especialmente indicada en personas con problemas de
+intolerancia a la lactosa. Se trata de una leche modificada a la cual se adiciona lactasa, la enzima
+que rompe la lactosa en sus dos azúcares simples constituyentes, la glucosa y la galactosa. De ahí
+que presente un sabor más dulce, diferente al de la leche clásica.
+Beneficios
+Cabe destacar dentro de los principales beneficios de la leche deslactosada los siguientes:
+• Rica en calcio que ayuda al mantenimiento de los huesos.
+• Fuente de proteína que ayuda al mantenimiento de la masa muscular.
+• De fácil digestión que reduce las molestias en consumidores intolerantes a la lactosa.
+• Contribuye a fortalecer nuestro sistema inmunológico.
+Leche deshidratada sin grasa
+Se obtiene al extraer el agua de la leche descremada pasteurizada. Se usa para productos de
+panadería, confitados, productos lácteos, productos cárnicos y mezclas preparadas.
+Composición típica
+Proteínas: 34.0%-37,0%
+Lactosa: 49,5%-52,0%
+Grasa: 0,6%-1,25%
+Cenizas: 8,2%-8,6%
+,
+7. Crear una hoja de estilo llamada general.css, a partir del código proporcionado en el contenido
+de la semana e incorporándola a su prototipo.
+8. Crear una hoja de estilo para la visualización del contenido en smartphone y llamarla moviles.css
+(puede ser similar a la entregada en el contenido de la semana).
+Seguidamente, procede a construir el diseño correspondiente a tu prototipo para que el contenido
+se presente de la siguiente manera:
+1. Leche deslactosada: la descripción y los beneficios se dispondrán en la primera fila en dos
+columnas con anchos de 4 y 8 columnas, respectivamente para cada párrafo.
+2. Leche deshidratada sin grasa: la descripción y la composición típica en la siguiente fila, con el
+mismo ancho para las dos columnas.
+3. Especificar el ancho adaptable al dispositivo desde el cual será visualizado.
+4. Contemplar el uso de la hoja de estilo construida en el punto 8 de esta tarea, para la creación
+de una media query que permita la visualización en dispositivos tipo smartphones.
+Deberás entregar el código realizado. Adicionalmente, deberás preparar la evidencia de tu
+implementación, mediante capturas de pantalla, con las visualizaciones en el navegador de todos los
+aspectos solicitados y su correspondiente explicación en la plantilla establecida por IACC para la entrega
+de la tarea de la semana.
