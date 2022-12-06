@@ -157,3 +157,39 @@ Deberás entregar el código realizado. Adicionalmente, deberás preparar la evi
 implementación, mediante capturas de pantalla, con las visualizaciones en el navegador de todos los
 aspectos solicitados y su correspondiente explicación en la plantilla establecida por IACC para la entrega
 de la tarea de la semana.
+
+
+## SEMANA 7
+
+DESARROLLO DE LA ACTIVIDAD
+Lee atentamente la información que se presenta. Analízala de acuerdo con los contenidos revisados en
+la semana y desarrolla la actividad evaluativa.
+Has sido invitado a participar en el equipo de desarrollo de software de una empresa procesadora de
+productos lácteos. Recientemente, iniciaron la producción de tres nuevos productos: leche
+deslactosada, leche deshidratada sin grasa, y leche semidescremada.
+Tu jefe te ha solicitado la elaboración de un prototipo de página web que pueda ser visualizado desde
+los dispositivos móviles y/o computadoras personales de los clientes. Después de una reunión con los
+expertos de marketing, se decidió incluir la siguiente información de los productos:
+1. ¿Qué es la leche deslactosada? ¿Cuáles son sus beneficios?
+2. ¿Qué es la leche deshidratada sin grasa? ¿Cuáles son sus usos? ¿Cuál es su composición?
+3. ¿Qué es la leche semidescremada? ¿En qué se diferencia de la leche entera?
+Para ello, deberás realizar los siguientes pasos:
+1. Preparar el ambiente para el proyecto según los pasos 1 al 5 de la tarea de la semana 6.
+2. Crear una hoja de estilo llamada general.css, a partir del código proporcionado en el contenido
+de la semana e incorporándola a su prototipo.
+3. Utilizar la información de referencia utilizada en la tarea de la semana 6 (Leche deslactosada y
+Leche deshidratada sin grasa).
+Seguidamente, procede a construir el diseño correspondiente a su prototipo para que el contenido
+suministrado contemple las siguientes especificaciones:
+a) Menciona los criterios de diseño de tablas, en cuanto a filas y celdas, utilizados en el
+desarrollo de esta actividad.
+b) Mostrar los beneficios de la leche deslactosada como una tabla de una columna que
+sustituya a la lista no ordenada.
+c) Construir la tabla de la composición típica de la leche deshidratada sin grasa, con
+bordes, cabecera de color amarillo y celdas de ancho fijo, igual para las dos columnas,
+tal como se muestra en la imagen a continuación:
+d) Especificar el ancho adaptable al dispositivo desde el cual será visualizado.
+Deberás entregar el código realizado. Adicionalmente, deberás preparar la evidencia de tu
+implementación, mediante capturas de pantalla, con las visualizaciones en el navegador de todos los
+aspectos solicitados y su correspondiente explicación en la plantilla establecida por IACC para la entrega
+de la tarea de la semana
