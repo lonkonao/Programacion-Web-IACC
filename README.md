@@ -99,7 +99,7 @@ el diseño HTML, durante la construcción de la página de los famosos exponente
 chilena? Argumenta tu respuesta.
 
 
-## semana 6
+## semana 6 OK
 
 Has sido invitado a participar en el equipo de desarrollo de software de una empresa procesadora de
 productos lácteos. Recientemente, iniciaron la producción de tres nuevos productos: leche
