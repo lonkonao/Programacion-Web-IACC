@@ -161,9 +161,6 @@ de la tarea de la semana.
 
 ## SEMANA 7
 
-DESARROLLO DE LA ACTIVIDAD
-Lee atentamente la información que se presenta. Analízala de acuerdo con los contenidos revisados en
-la semana y desarrolla la actividad evaluativa.
 Has sido invitado a participar en el equipo de desarrollo de software de una empresa procesadora de
 productos lácteos. Recientemente, iniciaron la producción de tres nuevos productos: leche
 deslactosada, leche deshidratada sin grasa, y leche semidescremada.
@@ -188,8 +185,11 @@ sustituya a la lista no ordenada.
 c) Construir la tabla de la composición típica de la leche deshidratada sin grasa, con
 bordes, cabecera de color amarillo y celdas de ancho fijo, igual para las dos columnas,
 tal como se muestra en la imagen a continuación:
+
+![image](https://user-images.githubusercontent.com/117374030/209028577-4142fd4e-24d9-4624-adc3-208821ef92ef.png)
+
 d) Especificar el ancho adaptable al dispositivo desde el cual será visualizado.
 Deberás entregar el código realizado. Adicionalmente, deberás preparar la evidencia de tu
 implementación, mediante capturas de pantalla, con las visualizaciones en el navegador de todos los
 aspectos solicitados y su correspondiente explicación en la plantilla establecida por IACC para la entrega
-de la tarea de la semana
+de la tarea de la semana.
